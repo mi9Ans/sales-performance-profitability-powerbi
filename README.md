@@ -11,7 +11,7 @@ The report provides a multi-level view of business performance, combining execut
 
 ## 🔗 Interactive Dashboard
 
-**[View the Interactive Power BI Report]https://app.powerbi.com/view?(r=eyJrIjoiOTQyZjc5NDMtMDFhMS00ZjU3LWI5ZTAtNWU3MTY3NWRlOWZhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)**
+[View the Interactive Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTQyZjc5NDMtMDFhMS00ZjU3LWI5ZTAtNWU3MTY3NWRlOWZhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 > The report was validated by ZoomCharts and accepted as a valid entry for the competition.
 
