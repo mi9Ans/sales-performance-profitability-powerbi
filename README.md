@@ -211,4 +211,4 @@ The report uses **ZoomCharts Drill Down PRO visuals** to support interactive exp
 
 Data Analyst | SQL | Python | Power BI | Excel
 
-[LinkedIn](PASTE_YOUR_LINKEDIN_PROFILE_URL_HERE)
+[LinkedIn]https://www.linkedin.com/in/anshumaan-mishra-211118365/
