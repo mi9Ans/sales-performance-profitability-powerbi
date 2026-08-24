@@ -9,9 +9,11 @@ An interactive **Sales Performance & Profitability Dashboard** developed in Micr
 
 The report provides a multi-level view of business performance, combining executive KPIs with profitability diagnostics, sales execution, and customer analysis.
 
+---
+
 ## 🔗 Interactive Dashboard
 
-[View the Interactive Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTQyZjc5NDMtMDFhMS00ZjU3LWI5ZTAtNWU3MTY3NWRlOWZhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
+**[View the Interactive Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTQyZjc5NDMtMDFhMS00ZjU3LWI5ZTAtNWU3MTY3NWRlOWZhIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)**
 
 > The report was validated by ZoomCharts and accepted as a valid entry for the competition.
 
@@ -193,7 +195,7 @@ The report uses **ZoomCharts Drill Down PRO visuals** to support interactive exp
 - `executive-performance.png` – Executive Performance dashboard
 - `profitability-diagnostics.png` – Profitability Diagnostics dashboard
 - `sales-customer-action-center.png` – Sales & Customer Action Center dashboard
-- `Sales_Performance_Profitability_Dashboard.pdf` – Dashboard documentation
+- `Sales_Dataset_Analysis.pdf` – Dashboard documentation and report preview
 
 > The original dataset and Power BI `.pbix` source file are not included in this public repository.
 
@@ -211,4 +213,4 @@ The report uses **ZoomCharts Drill Down PRO visuals** to support interactive exp
 
 Data Analyst | SQL | Python | Power BI | Excel
 
-[LinkedIn]https://www.linkedin.com/in/anshumaan-mishra-211118365/
+**[LinkedIn](https://www.linkedin.com/in/anshumaan-mishra-211118365/)**
