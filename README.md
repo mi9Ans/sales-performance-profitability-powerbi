@@ -193,7 +193,7 @@ The report uses **ZoomCharts Drill Down PRO visuals** to support interactive exp
 - `executive-performance.png` – Executive Performance dashboard
 - `profitability-diagnostics.png` – Profitability Diagnostics dashboard
 - `sales-customer-action-center.png` – Sales & Customer Action Center dashboard
-- `Sales_Dataset_Analysis.pdf` – Dashboard documentation
+- `Sales_Performance_Profitability_Dashboard.pdf` – Dashboard documentation
 
 > The original dataset and Power BI `.pbix` source file are not included in this public repository.
 
